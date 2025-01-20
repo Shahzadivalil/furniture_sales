@@ -1,14 +1,14 @@
-# furniture_sales
+
 
 # Furniture Sales Dashboard
 
 This repository contains a Power BI dashboard for analyzing furniture sales data. The dashboard provides insights into revenue, profit margins, sales quantity, and other key performance indicators across different locations and materials.
 
-Overview
+# Overview
 
 The dashboard visualizes the following key metrics:
 
-Total Revenue: Displays the overall revenue generated.
+. Total Revenue: Displays the overall revenue generated.
 
 Sales Quantity: Shows the total number of units sold.
 
@@ -28,7 +28,7 @@ Seasonal Revenue by Material:
 
 Compares revenue contributions across different materials (e.g., Plastic, Fabric, Glass, Metal, and Wood).
 
-Key Insights
+# Key Insights
 
 Revenue Contribution by Location:
 
