@@ -79,13 +79,7 @@ It breaks down the data by **location**, **material**, and **delivery days** to 
 2. View the dashboard image or open the associated `.pbix` file (if added).
 3. Use it as a reference or base for your own Power BI projects.
 
----
 
-## 📧 Contact
-
-For questions or collaboration, reach out via GitHub Issues or open a Pull Request.
-
----
 
 
 
